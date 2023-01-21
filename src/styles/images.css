@@ -1,0 +1,12 @@
+.gallery {
+columns: 4 250px;
+}
+.gallery img {
+  width: 200px ;
+  height: 200px;
+  border-radius: 10%;
+  border:solid 2px violet;
+  box-shadow:0 0 6px 6px purple;
+}
+
+
